@@ -10,8 +10,8 @@ a child and an activity. You can lost your kids, if you really don't care of the
 ## Requirements
 * Python 3
 * pyglet library
-
-**python -m pip install pyglet**
-
+```
+python -m pip install pyglet
+```
 ## How to use it
 * Use miniskolka2.py to run the program.
